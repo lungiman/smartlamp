@@ -18,4 +18,4 @@ Why do we forgo less important things? Human nature.
 Ive decided to a sensor to the lamp inorder to detect human presence near it.Once it is detected , the light is turned on.Once it detects that there is no human presence around ,it switches itself off.
 
 Below is a stop motion Video on the solution proposed.
-
+[![SmartLamp](thumbnail.jpg)](https://youtu.be/BthmPvZ4P9M)
